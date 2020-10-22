@@ -1,0 +1,18 @@
+shopId: 1
+shopPage: 1
+shopDisplayName: 테스트상점
+shopItems:
+  '0':
+    buy: 설정되지 않음
+    sell: 설정되지 않음
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2578
+      type: IRON_BLOCK
+  '1':
+    buy: 0주 0냥 3전 2푼
+    sell: 0주 3냥 4전 1푼
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2578
+      type: GRASS_BLOCK

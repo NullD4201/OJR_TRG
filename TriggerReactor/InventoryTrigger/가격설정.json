@@ -1,0 +1,585 @@
+{
+  "Size": 45,
+  "Items": {
+    "22": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "23": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "24": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l냥"
+        }
+      }
+    },
+    "25": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "26": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l초기화"
+        }
+      }
+    },
+    "27": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "28": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l7"
+        }
+      }
+    },
+    "29": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l8"
+        }
+      }
+    },
+    "30": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l9"
+        }
+      }
+    },
+    "31": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "10": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l1"
+        }
+      }
+    },
+    "32": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "11": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l2"
+        }
+      }
+    },
+    "33": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l전"
+        }
+      }
+    },
+    "12": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l3"
+        }
+      }
+    },
+    "34": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "13": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "35": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "14": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "15": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l주"
+        }
+      }
+    },
+    "16": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "17": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "18": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "19": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l4"
+        }
+      }
+    },
+    "0": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "1": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "2": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "3": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR"
+      }
+    },
+    "4": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "5": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "6": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "7": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "8": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "9": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "20": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l5"
+        }
+      }
+    },
+    "21": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l6"
+        }
+      }
+    },
+    "36": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "37": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "38": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l0"
+        }
+      }
+    },
+    "39": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "40": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "41": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "42": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l푼"
+        }
+      }
+    },
+    "43": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l구매가격"
+        }
+      }
+    },
+    "44": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "RED_WOOL",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§c§l설정되지 않음"
+        }
+      }
+    }
+  }
+}

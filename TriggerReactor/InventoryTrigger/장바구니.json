@@ -1,0 +1,565 @@
+{
+  "Items": {
+    "44": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "45": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "BARRIER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§c§l모두 취소하기"
+        }
+      }
+    },
+    "46": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "BLACK_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "47": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PLAYER_HEAD",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "SKULL",
+          "display-name": "§f§l이전 페이지",
+          "internal": "H4sIAAAAAAAAAE2PQVKDMBiFfzs6U9Gl4zlABKdLR6Y0TCNCS0Kya2k6gSa1Q8EhPYin6FU8gLfwBpqlu/fN+97iOQAO3C52vVJv7fu2VsIBx6aDaLtaHK9h3Imh61txdADgYgxXZKV6AWdhEpeX0t2UiaoMCi0vF65KUXN4Qnti1i8oRNr2s+dwbib/3KBb0UAxP5F8n/VrTdy5nysxy71KFx/sIW9SWrg8ftVsmRncTCWmXPIYD6whNdZowDR7ZJoo1hR+GlUBo2xgJ+uemMF2w/RUYUp2PCrqbelNAG5ghDb2wOXo/ven+4rkuf+8i3PvG+APb4OeuQIBAAA\u003d"
+        }
+      }
+    },
+    "48": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "BLACK_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "49": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PAPER",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§f§l0원"
+        }
+      }
+    },
+    "50": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "BLACK_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "51": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PLAYER_HEAD",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "SKULL",
+          "display-name": "§f§l다음 페이지",
+          "internal": "H4sIAAAAAAAAAE2PT06DQBxGfxpNKnqAxlPwJ9B0wcKISYd0BqFT6MyuLVPKMGBDoZYuPYLxAB7ChRsv48qlR5Clu/flfZunAWhwMytapR7rp02uhAZaTztRN7nYX8GgEcemrcVeA4CzAVzGS9UK+BCdr/PFVk8Xvlp3yOk3nekqQHI3QlXcre6Rg8reT+6caTf+97WbZWIrZvlbXoXtqoz1qRUpMYmMdTk/BHRuMopNTDOdUKWIR3IsM4tJ1DGZKiyxwRNsBrQwAhoaxOOSlFxyjxfslOmsZ0YjySV+Zgmy8enhiCpjvAldF+AazlHah1x8vwXDn3fy++Lejj6HX68Af5c/XNAKAQAA"
+        }
+      }
+    },
+    "52": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "BLACK_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "53": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "LIME_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": "§a§l선택상품 구매하기"
+        }
+      }
+    },
+    "10": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "11": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "12": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "13": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "14": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "15": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "16": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "17": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "18": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "19": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "0": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "1": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "2": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "3": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "4": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "5": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "6": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "7": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "8": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "9": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "20": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "21": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "22": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "23": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "24": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "25": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "26": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "27": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "28": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "29": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "30": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "31": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "32": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "33": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "34": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "35": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "AIR",
+        "amount": 0
+      }
+    },
+    "36": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "37": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "38": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "39": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "40": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "41": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "42": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    },
+    "43": {
+      "$serkey": "org.bukkit.configuration.serialization.ConfigurationSerializable",
+      "$serval": {
+        "\u003d\u003d": "org.bukkit.inventory.ItemStack",
+        "v": 2578,
+        "type": "PURPLE_STAINED_GLASS_PANE",
+        "meta": {
+          "\u003d\u003d": "ItemMeta",
+          "meta-type": "UNSPECIFIC",
+          "display-name": " "
+        }
+      }
+    }
+  },
+  "Size": 54
+}

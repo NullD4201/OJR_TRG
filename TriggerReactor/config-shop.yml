@@ -1,0 +1,6 @@
+shopCount: 3
+shopList:
+  '1':
+    shopName: shop
+  '2':
+    shopName: shop1

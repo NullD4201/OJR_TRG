@@ -1,0 +1,166 @@
+{
+  "ojr_prefix": "\u0026a[\u00266\u0026lOJR\u0026a]\u0026r ",
+  "ojr_shopRegItem_YmlNum2": 3,
+  "love5116": {
+    "scoreboard": {
+      "set": true,
+      "money_withname": "1냥 ",
+      "money_withoutname": 100,
+      "money_initial_withname": "1냥",
+      "job": "§d§l어드민",
+      "money_initial_withoutname": 100,
+      "money_withname_ju": "",
+      "money_withname_nyang": "1냥 ",
+      "money_withname_jun": "",
+      "money_withname_pun": "",
+      "krname": "로울"
+    },
+    "wingmove": " ",
+    "wingsend": " ",
+    "wingconfirm": " ",
+    "wingpay": " ",
+    "tosubtractmoney_withoutname": 90
+  },
+  "ojr_shopRegItem_YmlNum3": 4,
+  "Player754": {
+    "scoreboard": {
+      "money_withname_jun": "",
+      "set": true,
+      "money_withname": "1주 1냥 ",
+      "money_withoutname": 10100,
+      "money_initial_withname": "1냥",
+      "money_withname_ju": "1주 ",
+      "job": "§d§l어드민",
+      "money_withname_pun": "",
+      "money_withname_nyang": "1냥 ",
+      "money_initial_withoutname": 100
+    }
+  },
+  "PURPLE_STAINED_GLASS_PANE": {
+    "ojr_shopRegItem_YmlNum": 1
+  },
+  "08_2": {
+    "tosubtractmoney_withoutname": 10000,
+    "scoreboard": {
+      "krname": "공팔",
+      "money_withname_jun": "",
+      "set": true,
+      "money_withname": "1냥 ",
+      "money_withoutname": 100,
+      "money_initial_withname": "1냥",
+      "money_withname_ju": "",
+      "job": "§d§l어드민",
+      "money_withname_pun": "",
+      "money_withname_nyang": "1냥 ",
+      "money_initial_withoutname": 100
+    }
+  },
+  "Zinc814": {
+    "scoreboard": {
+      "set": true,
+      "money_withname": "999주 99냥 8전 ",
+      "money_withoutname": 9999980,
+      "money_initial_withname": "1냥",
+      "job": "§d§l어드민",
+      "money_initial_withoutname": 100,
+      "money_withname_ju": "999주 ",
+      "money_withname_nyang": "99냥 ",
+      "money_withname_jun": "8전 ",
+      "money_withname_pun": "",
+      "krname": "징크"
+    },
+    "tosubtractmoney_withoutname": 2330000,
+    "wingmove": " ",
+    "wingsend": " ",
+    "wingconfirm": " ",
+    "wingpay": " ",
+    "command_shopName": "shop",
+    "command_shopPage": 1,
+    "command_shopIndex": 1
+  },
+  "duedos": {
+    "scoreboard": {
+      "krname": "도스",
+      "set": true,
+      "money_withname": "2냥 1전 9푼",
+      "money_withoutname": 219,
+      "money_initial_withname": "1냥",
+      "job": "플레이어",
+      "money_initial_withoutname": 100,
+      "money_withname_ju": "",
+      "money_withname_nyang": "2냥 ",
+      "money_withname_jun": "1전 ",
+      "money_withname_pun": "9푼"
+    },
+    "tosubtractmoney_withoutname": 990000
+  },
+  "test_user": {
+    "scoreboard": {
+      "set": true,
+      "money_withname": "1냥",
+      "money_withoutname": 100,
+      "money_initial_withname": "1냥",
+      "job": "설정되지 않음",
+      "money_initial_withoutname": 100
+    }
+  },
+  "IRON_BLOCK": {
+    "itemBuy": "설정되지 않음",
+    "itemSell": "설정되지 않음",
+    "itemBuy_set_boolean": false,
+    "itemSell_set_boolean": false,
+    "itemCost_set": false
+  },
+  "GRASS_BLOCK": {
+    "itemBuy": "설정되지 않음",
+    "itembuy": "2주",
+    "itemsell": "3냥",
+    "itemSell": "설정되지 않음",
+    "itemBuy_set_boolean": false,
+    "itemSell_set_boolean": false,
+    "itemCost_set": false
+  },
+  "TABAM_POE": {
+    "scoreboard": {
+      "krname": "포타밤",
+      "set": true,
+      "money_withname": "2냥 1전 ",
+      "money_withoutname": 210,
+      "money_initial_withname": "1냥",
+      "job": "플레이어",
+      "money_initial_withoutname": 100,
+      "money_withname_ju": "",
+      "money_withname_nyang": "2냥 ",
+      "money_withname_jun": "1전 ",
+      "money_withname_pun": ""
+    }
+  },
+  "COMMAND_BLOCK": {
+    "ojr_shopRegItem_YmlNum": 2
+  },
+  "ojr_shopRegItem_YmlNum4": 5,
+  "BONE": {
+    "itemBuy": "설정되지 않음",
+    "itemSell": "설정되지 않음"
+  },
+  "BLACK_STAINED_GLASS_PANE": {
+    "ojr_shopRegItem_YmlNum": 1
+  },
+  "4week": {
+    "scoreboard": {
+      "set": true,
+      "money_withname": "2냥 ",
+      "money_withoutname": 200,
+      "money_initial_withname": "1냥",
+      "job": "§d§l어드민",
+      "money_initial_withoutname": 100,
+      "krname": "사주",
+      "money_withname_ju": "",
+      "money_withname_nyang": "2냥 ",
+      "money_withname_jun": "",
+      "money_withname_pun": ""
+    }
+  },
+  "ojr_shopname_list": "",
+  "ojr_shopRegItem_YmlNum": 8
+}

@@ -1,0 +1,13 @@
+{
+  "aliases": [],
+  "sync": false,
+  "permissions": [],
+  "tabs": [{
+                "hint": "'job','name'",
+                "candidates": "job,name"
+            },
+          {
+              "candidates": "$playerlist"
+          }
+  ]
+}

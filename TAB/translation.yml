@@ -1,0 +1,13 @@
+no_permission: 권한 없음
+unlimited_nametag_mode_not_enabled: config를 확인해서 unlimited_nametag_mode를 켜주세요
+data_removed: 모든 데이터 삭제됨
+player_not_found: 해당 플레이어는 존재하지 않습니다!
+reloaded: 리로드 완료
+value_assigned: 적용되었습니다.
+value_removed: 삭제되었습니다.
+plugin_disabled: null
+bossbar-toggle-on: 보스바를 보입니다.
+bossbar-toggle-off: 보스바를 보지 않습니다.
+preview-on: 프리뷰 모드 활성화됨.
+preview-off: 프리뷰 모드 비활성화됨.
+reload-failed: 리로드 실패

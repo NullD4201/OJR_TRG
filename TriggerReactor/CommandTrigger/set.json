@@ -3,7 +3,7 @@
   "sync": false,
   "permissions": [],
   "tabs": [{
-                "hint": "'job','name'",
+                "hint": "job,name",
                 "candidates": "job,name"
             },
           {

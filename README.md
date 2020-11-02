@@ -1,9 +1,9 @@
-# OJL_TRG
-## OJL Server TriggerReactor Files
+# OJR_TRG
+## OJR Server TriggerReactor Files
 ```
-진행도 37%
-상점 진행도 50%
-장바구니기능 컨펌 필요
+진행도 34%
+상점 진행도 95%
+장바구니기능 삭제
 ```
 ```
 목표 개발 완료날짜 : 11월 15일
